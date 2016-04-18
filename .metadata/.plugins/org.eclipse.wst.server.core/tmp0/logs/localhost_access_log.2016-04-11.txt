@@ -1,0 +1,14 @@
+127.0.0.1 - - [11/Apr/2016:20:45:01 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:45:14 +0200] "GET /com.vogella.web.filecounter/FileCounter HTTP/1.1" 404 1029
+127.0.0.1 - - [11/Apr/2016:20:46:07 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:46:28 +0200] "GET /com.vogella.web.filecounter/FileCounter HTTP/1.1" 200 38
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:46:38 +0200] "GET /com.vogella.web.filecounter/FileCounter HTTP/1.1" 200 38
+127.0.0.1 - - [11/Apr/2016:20:50:21 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:50:22 +0200] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:50:51 +0200] "GET /com.vogella.web.filecounter/FileCounter HTTP/1.1" 200 38
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:51:02 +0200] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+127.0.0.1 - - [11/Apr/2016:20:52:38 +0200] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:52:39 +0200] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:52:48 +0200] "GET /com.vogella.web.filecounter/FileCounter HTTP/1.1" 200 38
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:52:56 +0200] "GET /com.vogella.jersey.first/WEB-INF/classes/com/vogella/jersey/first/Hello.java HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [11/Apr/2016:20:53:11 +0200] "GET /com.vogella.jersey.first/rest/hello HTTP/1.1" 200 76
